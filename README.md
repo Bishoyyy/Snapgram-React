@@ -1,4 +1,4 @@
-Snapgram is a mini fully responsive Social Media Web App built using React, Tan-Stack Query, Appwrite and Tailwind CSS.
+Snapgram is a mini fully responsive Social Media Web App built using React, TypeScript, Tan-Stack Query, Appwrite and Tailwind CSS.
 
 Live Page : https://snapgram-react-mocha.vercel.app/
 
